@@ -12,7 +12,7 @@ This project features a basic contact form that collects user information and st
 
 ## Run the Program
 
-1. Code the provided HTML and PHP code in your Visual Studio Code or Text Editor , save both the files with their proper extension and run it in the Web Browser.
+1. Code the provided HTML and PHP code in your Visual Studio Code or your Favourite Text Editor , save both the files with their proper extension and run it in the Web Browser.
 2. Fill out the contact form with your name, phone number, email, subject, and message.
 3. Click the "Submit" button to send your information to the server(i.e., PHP file) for processing.
 4. If the submission is successful, you will see a success message, and your data will be stored in the database.
